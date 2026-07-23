@@ -2,7 +2,7 @@
 
 A simple and responsive **BMI (Body Mass Index) Calculator** built using **HTML, CSS, and JavaScript**. This application helps users calculate their BMI based on their height and weight and displays the corresponding health category.
 
-## 🚀 Features
+## Features
 
 - Calculate BMI instantly
 - User-friendly interface
@@ -21,7 +21,7 @@ A simple and responsive **BMI (Body Mass Index) Calculator** built using **HTML,
 - JavaScript
 - React JS
 
-## 📌 BMI Formula
+##  BMI Formula
 
 ```text
 BMI = Weight (kg) / Height² (m²)
@@ -37,7 +37,7 @@ BMI-Calculator/
 │── README.md
 ```
 
-## 💻 How to Use
+##  How to Use
 
 1. Enter your height (in centimeters).
 2. Enter your weight (in kilograms).
