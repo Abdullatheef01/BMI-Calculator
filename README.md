@@ -60,4 +60,8 @@ BMI-Calculator/
 
 
 ##  Live Demo
-<img width="1920" height="901" alt="23 07 2026_21 15 06_REC" src="https://github.com/user-attachments/assets/f53992ed-2d4c-4bb2-9ef8-1f4eb86422a6" />
+
+
+https://github.com/user-attachments/assets/a8157596-f100-455a-9cd8-790a061d6b6a
+
+
