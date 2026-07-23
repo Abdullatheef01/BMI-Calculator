@@ -59,7 +59,7 @@ BMI-Calculator/
 <img width="1920" height="901" alt="23 07 2026_21 15 06_REC" src="https://github.com/user-attachments/assets/69143fb8-a3c4-46f4-ac90-871e4d501d1a" />
 
 ## Project live
-Click and View the Project : [bmi-calculator-sigma-wine.vercel.app](https://vercel.com/cwa3/bmi-calculator)
+Click and View the Project : https://bmi-calculator-sigma-wine.vercel.app/
 
 ##  Live Demo
 
