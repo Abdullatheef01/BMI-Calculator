@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A responsive BMI Calculator built using React.js and Vite that calculates Body Mass Index and displays the corresponding health category.
+A modern and responsive **BMI (Body Mass Index) Calculator** built using **React.js** and **Vite**. This application allows users to calculate their BMI by entering their height and weight, then instantly displays their BMI value along with the corresponding health category. It provides a clean user interface, real-time calculations, and input validation to ensure accurate results. This project demonstrates React fundamentals, component-based architecture, state management using Hooks, and responsive UI design.
 
 ## Features
 
@@ -60,10 +60,4 @@ BMI-Calculator/
 
 
 ##  Live Demo
-
-
-
-
-## ⭐ If you like this project
-
-Give this repository a **Star ⭐** on GitHub.
+<img width="1920" height="901" alt="23 07 2026_21 15 06_REC" src="https://github.com/user-attachments/assets/f53992ed-2d4c-4bb2-9ef8-1f4eb86422a6" />
