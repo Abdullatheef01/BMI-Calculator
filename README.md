@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A simple and responsive **BMI (Body Mass Index) Calculator** built using **HTML, CSS, and JavaScript**. This application helps users calculate their BMI based on their height and weight and displays the corresponding health category.
+A responsive BMI Calculator built using React.js and Vite that calculates Body Mass Index and displays the corresponding health category.
 
 ## Features
 
