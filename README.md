@@ -1,16 +1,58 @@
-# React + Vite
+# BMI Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **BMI (Body Mass Index) Calculator** built using **HTML, CSS, and JavaScript**. This application helps users calculate their BMI based on their height and weight and displays the corresponding health category.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Calculate BMI instantly
+- User-friendly interface
+- Responsive design
+- Displays BMI category:
+  - Underweight
+  - Normal Weight
+  - Overweight
+  - Obese
+- Input validation
 
-## React Compiler
+##  Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- HTML5
+- CSS3
+- JavaScript
+- React JS
 
-## Expanding the ESLint configuration
+## 📌 BMI Formula
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+BMI = Weight (kg) / Height² (m²)
+```
+
+## 📂 Project Structure
+
+```
+BMI-Calculator/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+```
+
+## 💻 How to Use
+
+1. Enter your height (in centimeters).
+2. Enter your weight (in kilograms).
+3. Click the **Calculate BMI** button.
+4. View your BMI value and health category.
+
+##  Screenshot
+<img width="1920" height="901" alt="23 07 2026_21 15 06_REC" src="https://github.com/user-attachments/assets/69143fb8-a3c4-46f4-ac90-871e4d501d1a" />
+
+
+##  Live Demo
+
+
+
+
+## ⭐ If you like this project
+
+Give this repository a **Star ⭐** on GitHub.
