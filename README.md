@@ -27,14 +27,25 @@ A simple and responsive **BMI (Body Mass Index) Calculator** built using **HTML,
 BMI = Weight (kg) / Height² (m²)
 ```
 
-## 📂 Project Structure
+# 📂 Project Structure
 
-```
+```text
 BMI-Calculator/
-│── index.html
-│── style.css
-│── script.js
+│── public/
+│── src/
+│   ├── assets/
+│   │   └── bmi.jpg
+│   ├── App.css
+│   ├── App.jsx
+│   └── main.jsx
+│
+│── .gitignore
 │── README.md
+│── eslint.config.js
+│── index.html
+│── package.json
+│── package-lock.json
+│── vite.config.js
 ```
 
 ##  How to Use
