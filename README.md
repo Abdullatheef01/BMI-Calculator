@@ -56,7 +56,8 @@ BMI-Calculator/
 4. View your BMI value and health category.
 
 ##  Screenshot
-<img width="1920" height="901" alt="23 07 2026_21 15 06_REC" src="https://github.com/user-attachments/assets/69143fb8-a3c4-46f4-ac90-871e4d501d1a" />
+<img width="1920" height="907" alt="image" src="https://github.com/user-attachments/assets/854dd4f4-3384-4248-ba58-17a471ddc188" />
+
 
 ## Project live
 Click and View the Project : https://bmi-calculator-sigma-wine.vercel.app/
