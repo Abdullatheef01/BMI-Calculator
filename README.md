@@ -65,6 +65,10 @@ Click and View the Project : https://bmi-calculator-sigma-wine.vercel.app/
 ##  Live Demo
 
 
-https://github.com/user-attachments/assets/a8157596-f100-455a-9cd8-790a061d6b6a
+
+
+https://github.com/user-attachments/assets/4bdc002d-d044-4740-ab48-61646b39eccd
+
+
 
 
