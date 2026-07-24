@@ -11,7 +11,7 @@ body{
   justify-content: center;
   align-items:center;
   height: 100vh;
-  background-color: #686262;
+  background:linear-gradient(50deg,#8f91ce,#4d5592,#323e86)
 }
 .container form{
   display: flex;
@@ -42,8 +42,8 @@ border-radius: 25px;
 }
 h3{
   margin-top:-50px;
-  color: rgb(43, 106, 146);
-  margin-right: 100px;
+  color: #394489;
+  font-size:x-large;
 }
 label{
   padding-top: 35px;
@@ -60,28 +60,28 @@ input{
 }
 .primary-btn{
 padding: 10px 20px;
-background-color:rgb(49, 176, 255);
+background-color:#394489;
 border:none;
 color: aliceblue;
   border-radius: 5px;
 }
 .secondary-btn{
   padding: 10px 25px;
-  background-color: rgb(213, 44, 44);
+  background-color: rgb(55, 55, 55);
   border: none;
   color: white;
   border-radius: 5px;
 }
 .output{
 background-color:white;
-border: 2px solid rgb(49, 176, 255) ;
+border: 2px solid #394489 ;
 margin-top: 30px;
 height: 80px;
 padding: 15px 15px;
 width: 300px;
 }
 .first{
-  color: rgb(46, 161, 161);
+  color: #394489;
 }
 .sec{
   padding-top: 10px;

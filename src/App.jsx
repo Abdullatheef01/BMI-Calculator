@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import bmi from "/src/assets/bmi.jpg"
+import bmi from "/src/assets/img.png"
 import "/src/App.css"
 const App = () => {
   const[height,highstate]=useState()
