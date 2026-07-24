@@ -34,7 +34,7 @@ BMI-Calculator/
 │── public/
 │── src/
 │   ├── assets/
-│   │   └── bmi.jpg
+│   │   └── img.jpg
 │   ├── App.css
 │   ├── App.jsx
 │   └── main.jsx
