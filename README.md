@@ -1,16 +1,69 @@
-# React + Vite
+# BMI Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **BMI (Body Mass Index) Calculator** built using **React.js** and **Vite**. This application allows users to calculate their BMI by entering their height and weight, then instantly displays their BMI value along with the corresponding health category. It provides a clean user interface, real-time calculations, and input validation to ensure accurate results. This project demonstrates React fundamentals, component-based architecture, state management using Hooks, and responsive UI design.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Calculate BMI instantly
+- User-friendly interface
+- Responsive design
+- Displays BMI category:
+  - Underweight
+  - Normal Weight
+  - Overweight
+  - Obese
+- Input validation
 
-## React Compiler
+##  Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- HTML5
+- CSS3
+- JavaScript
+- React JS
 
-## Expanding the ESLint configuration
+##  BMI Formula
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+BMI = Weight (kg) / Height² (m²)
+```
+
+# 📂 Project Structure
+
+```text
+BMI-Calculator/
+│── public/
+│── src/
+│   ├── assets/
+│   │   └── bmi.jpg
+│   ├── App.css
+│   ├── App.jsx
+│   └── main.jsx
+│
+│── .gitignore
+│── README.md
+│── eslint.config.js
+│── index.html
+│── package.json
+│── package-lock.json
+│── vite.config.js
+```
+
+##  How to Use
+
+1. Enter your height (in centimeters).
+2. Enter your weight (in kilograms).
+3. Click the **Calculate BMI** button.
+4. View your BMI value and health category.
+
+##  Screenshot
+<img width="1920" height="901" alt="23 07 2026_21 15 06_REC" src="https://github.com/user-attachments/assets/69143fb8-a3c4-46f4-ac90-871e4d501d1a" />
+
+## Project live
+Click and View the Project : https://bmi-calculator-sigma-wine.vercel.app/
+
+##  Live Demo
+
+
+https://github.com/user-attachments/assets/a8157596-f100-455a-9cd8-790a061d6b6a
+
+
